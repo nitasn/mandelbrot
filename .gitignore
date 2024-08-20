@@ -1,0 +1,5 @@
+.DS_Store
+.vscode
+build
+result_images
+mandelbrot_*x*.png
